@@ -1,0 +1,1 @@
+Stitch video together to get 360 degree video
